@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been writing code since 2005<br>📚 I'm currently working at LetsDefend</p>
+<p align="left">✨ I've been writing code since 2005<br>📚 I'm currently working at Hack The Box</p>
 
 ###
 
